@@ -1,0 +1,4 @@
+#ignorer fichiers temporaires
+*.tmp
+#ignorer brouillon.txt
+brouillon.txt
