@@ -1,0 +1,8 @@
+==============================================
+  PÉRIODE D'ESSAI VALIDÉE
+  Collaborateur : DWWM01.M08
+  Date          : 19/11/2026 13:04
+  Code d'accès au dépôt de l'agence : ravine-2026
+==============================================
+Dernier geste : enregistrez ce diplôme dans un fichier.
+  bash verifier.sh final > diplome.txt
